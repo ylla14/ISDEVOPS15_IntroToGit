@@ -1,2 +1,2 @@
 #My First Git Projeect
-Allyssa Salgado
+Allyssa Salgado - Introduction to Git
